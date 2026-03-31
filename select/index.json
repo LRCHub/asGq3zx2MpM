@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Built to Last",
+  "base_artist": "Mêlée",
+  "createdAt": "2026-03-31T06:30:18.425473Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Built to Last",
+      "artist": "American Aquarium",
+      "has_synced": true,
+      "path": "select/01_Built_to_Last_American_Aquarium.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Built to Last",
+      "artist": "Hammerfall",
+      "has_synced": true,
+      "path": "select/02_Built_to_Last_Hammerfall.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Built to Last",
+      "artist": "Loraine James feat. Xzavier Stone",
+      "has_synced": true,
+      "path": "select/03_Built_to_Last_Loraine_James_feat._Xzavier_Stone.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Built to Last (feat. Xzavier Stone)",
+      "artist": "Loraine James",
+      "has_synced": true,
+      "path": "select/04_Built_to_Last_(feat._Xzavier_Stone)_Loraine_James.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "This Ship Was Built To Last",
+      "artist": "The Duke Spirit",
+      "has_synced": true,
+      "path": "select/05_This_Ship_Was_Built_To_Last_The_Duke_Spirit.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "We Were Never Built To Last",
+      "artist": "Electric President",
+      "has_synced": true,
+      "path": "select/06_We_Were_Never_Built_To_Last_Electric_President.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Not Built To Last",
+      "artist": "Dark Tranquillity",
+      "has_synced": true,
+      "path": "select/07_Not_Built_To_Last_Dark_Tranquillity.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Built to Last",
+      "artist": "Sick Of It All",
+      "has_synced": true,
+      "path": "select/08_Built_to_Last_Sick_Of_It_All.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Built to Last",
+      "artist": "Southpacific",
+      "has_synced": false,
+      "path": "select/09_Built_to_Last_Southpacific.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Built To Last",
+      "artist": "Tom Petty and the Heartbreakers",
+      "has_synced": false,
+      "path": "select/10_Built_To_Last_Tom_Petty_and_the_Heartbreakers.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Built To Last",
+      "artist": "Tom Petty & the Heartbreakers",
+      "has_synced": false,
+      "path": "select/11_Built_To_Last_Tom_Petty_&_the_Heartbreakers.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Built To Last",
+      "artist": "Rise Against",
+      "has_synced": true,
+      "path": "select/12_Built_To_Last_Rise_Against.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Built to Last",
+      "artist": "Funeral for a Friend",
+      "has_synced": true,
+      "path": "select/13_Built_to_Last_Funeral_for_a_Friend.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Built To Last",
+      "artist": "Tom Petty",
+      "has_synced": false,
+      "path": "select/14_Built_To_Last_Tom_Petty.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Built To Last",
+      "artist": "Mêlée",
+      "has_synced": true,
+      "path": "select/15_Built_To_Last_Mêlée.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Built To Last",
+      "artist": "Mêlée",
+      "has_synced": true,
+      "path": "select/16_Built_To_Last_Mêlée.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Built to Last",
+      "artist": "Mêlée",
+      "has_synced": false,
+      "path": "select/pl_01_Built_to_Last_Mêlée.txt"
+    }
+  ]
+}
