@@ -1,0 +1,39 @@
+# Mêlée – Built to Last
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:30.37] I've looked for love in stranger places
+[00:37.70] But never found someone like you
+[00:45.24] Someone who's smart
+[00:49.18] Makes me feel I've been holding back
+[00:53.58] An now theres nothing I can do
+[00:59.37] Cause this is real and this is good
+[01:03.02] It warms the inside just like it should
+[01:06.92] But most of all
+[01:08.85] Most of all It's built to last
+[01:14.79] It's built to last
+[01:16.39] (It's built to last)
+[01:20.96] All of our friends saw from the star
+[01:34.33] So why didn't we believe it too?
+[01:41.43] Now look where we are
+[01:45.65] You're in my heart now
+[01:49.40] And there's no escaping it for you
+[01:56.08] 'Cause this is real and this is good
+[02:00.21] It warms the inside just like it should
+[02:03.33] But most of all
+[02:05.29] Most of all it's built to last
+[02:27.33] Walking on the hills at night
+[02:30.50] With the fire works and candle light
+[02:34.56] You and I were meant to get love right
+[02:41.33] Cause this is real and this is good
+[02:45.15] It warms the inside just like it should
+[02:49.08] But most of all
+[02:50.94] Most of all it's built to last
+[02:54.45] (It's built to last)
+[02:56.41] 'Cause you are the sun in my universe
+[02:59.85] Consider the best when we felt the worst
+[03:03.80] But most of all
+[03:06.29] Most of all
+[03:07.91] Most of all it's built to last
+```
